@@ -15,7 +15,7 @@ const Common = (props) => {
                   </h1>
                   <h2 className="my-3">{props.slogan}</h2>
                   <div className="mt-3">
-                    <NavLink to="/service" className="btn-get-started ">
+                    <NavLink to="/" className="btn-get-started ">
                       {props.btname}
                     </NavLink>
                   </div>
