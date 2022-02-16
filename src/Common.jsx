@@ -22,7 +22,7 @@ const Common = (props) => {
                 </div>
                 <div className="col-lg-6 pt-5 order-1 order-lg-2 header-img">
                   <img
-                    src={require("./images/unity.jpg")}
+                    src={require("./images/nepotism.jpg")}
                     className="img-fluid animated"
                     alt="home img"
                   />
