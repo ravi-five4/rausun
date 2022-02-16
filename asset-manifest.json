@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.04fa9c97.css",
-    "main.js": "/static/js/main.94b4fe68.js",
-    "static/media/unity.jpg": "/static/media/unity.372e3e72f94179a55e80.jpg",
+    "main.js": "/static/js/main.b6cdd8fb.js",
+    "static/media/nepotism.jpg": "/static/media/nepotism.c945a4b96c73b2622d3a.jpg",
     "index.html": "/index.html",
     "main.04fa9c97.css.map": "/static/css/main.04fa9c97.css.map",
-    "main.94b4fe68.js.map": "/static/js/main.94b4fe68.js.map"
+    "main.b6cdd8fb.js.map": "/static/js/main.b6cdd8fb.js.map"
   },
   "entrypoints": [
     "static/css/main.04fa9c97.css",
-    "static/js/main.94b4fe68.js"
+    "static/js/main.b6cdd8fb.js"
   ]
 }
